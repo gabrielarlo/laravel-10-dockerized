@@ -2,7 +2,7 @@
 
 ### Installation
 
-1. Clone this repo
+1. Clone this repo or download the zip file from release page.
 2. copy the `.env.example` as `.env`
 3. run `./vendor/bin/sail up` or `docker-compose up -d`
 
